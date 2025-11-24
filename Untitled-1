@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ballard - HTML Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all">
+    <link href="css/theme-law.css" rel="stylesheet" type="text/css" media="all">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,600%7CAmiri:400,400italic" rel="stylesheet">
+    <link href="css/font-law.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body data-smooth-scroll-offset="0">
+    <section class="page-container">
+        <div class="loader"></div>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <a href="index.html" class="logo">
+                            <img alt="logo" src="img/logo.png">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 text-right text-left-xs">
+                        <a href="mailto:images.by.noe@gmail.com?subject=Inquiry">
+                            <span class="underline active">images.by.noe@gmail.com</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-container transition--fade">
+            <section class="section-home">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <nav>
+                                <ul class="navigation">
+                                    <li><a href="list-events.html"><span class="underline active">Event Photography</span></a></li>
+                                    <li><a href="list-portraits.html"><span class="underline active">Portrait Photography</span></a></li>
+                                    <li><a href="list-street.html"><span class="underline active">Street Photography</span></a></li>
+                                    <li><a href="bio.html"><span class="underline active">Bio</span></a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-8">
+                            <div class="blog-single__title">
+                                <h1>Event Photography</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!-- Project Listings -->
+                        <div class="col-md-6 col-sm-12">
+                            <div class="project">
+                                <a href="single-event-ice_cream.html">
+                                    <img alt="Pic" src="img/events/ICS24/01-IMG_0036%20(5x7).jpg">
+                                </a>
+                                <h4>Ice Cream Social</h4>
+                                <span><em>Brooklyn, NY</em></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="project">
+                                <a href="single-event-school_days.html">
+                                    <img alt="Pic" src="img/events/SD24/219-IMG_3866%20(5x7).jpg">
+                                </a>
+                                <h4>School Days</h4>
+                                <span><em>Brooklyn, NY</em></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="project">
+                                <a href="single-event-k-pop_performance.html">
+                                    <img alt="Pic" src="img/events/kpopbp/27-IMG_5306%20(5x7).jpg">
+                                </a>
+                                <h4>K-Pop Performance</h4>
+                                <span><em>Manhattan, NY</em></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="project">
+                                <a href="single-event-dance_recital_backstage.html">
+                                    <img alt="Pic" src="img/events/BackstageJ24/02-IMG_0141%20(5x7).jpg">
+                                </a>
+                                <h4>Dance Recital Backstage</h4>
+                                <span><em>Hackensack, NJ</em></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-cta">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h3>Copyright ©2024 Images by Noë. All Rights Reserved.</h3>
+                            <a href="mailto:images.by.noe@gmail.com?subject=Inquiry">
+                                <span class="underline active">images.by.noe@gmail.com</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer>
+                <div class="container">
+                    <div class="row">
+                        <!-- Social media links can be added here if needed -->
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </section>
+
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
